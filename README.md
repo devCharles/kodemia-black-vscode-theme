@@ -2,7 +2,10 @@
   <img src='https://cdn.kodemia.mx/images/brand/white-imagotipo.svg' height='50'>
   <br />
   <br />
-  <h1 align="center" >VS Code Official Themes</h1>
+</p>
+
+<p align='center'>
+  <h1 align="center">VS Code Official Themes</h1>
 </p>
 
 <p align='center'>
