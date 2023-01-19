@@ -27,5 +27,6 @@
     "url": "https://github.com/kodemia/vscode-themes/issues",
     "email": "tech@kodemia.mx"
   },
-  "homepage": "https://github.com/kodemia/vscode-themes"
+  "homepage": "https://github.com/kodemia/vscode-themes",
+  "license": "./LICENSE"
 }
