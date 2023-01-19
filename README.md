@@ -2,12 +2,12 @@
   <img src='https://cdn.kodemia.mx/images/brand/white-imagotipo.svg' height='50'>
   <br />
   <br />
-  <h1 align="center" >Kodemia's VS Code Official Themes</h1>
+  <h1 align="center" >VS Code Official Themes</h1>
 </p>
 
 <p align='center'>
   <br />
-  <b align="center">⚫ Black Version ⚫</b>
+  <b align="center">⚫ Black Theme ⚫</b>
   <br />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align='center'>
   <br />
-  <b align="center">⚪ White Version ⚪</b>
+  <b align="center">⚪ White Theme ⚪</b>
   <br />
   <p>Coming soon... or not... </p>
 </p>
