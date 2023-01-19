@@ -1,24 +1,15 @@
 {
-  "name": "kodemia-vscode-official-themes",
+  "name": "kodemia-vscode-theme",
   "displayName": "Kodemia Theme",
-  "description": "Kodemia's VS Code Official Themes",
+  "description": "Kodemia theme for VS Code",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Kodemia Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/black.json"
-      }
-    ]
-  },
+  "publisher": "Kodemia",
+  "license": "MIT",
   "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kodemia/vscode-themes.git"
@@ -27,6 +18,27 @@
     "url": "https://github.com/kodemia/vscode-themes/issues",
     "email": "tech@kodemia.mx"
   },
-  "homepage": "https://github.com/kodemia/vscode-themes",
-  "license": "./LICENSE"
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "kodemia",
+    "dark",
+    "bootcamp",
+    "black"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kodemia Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-default.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/kodemia/vscode-themes"
 }
