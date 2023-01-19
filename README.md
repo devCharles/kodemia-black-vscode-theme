@@ -10,7 +10,7 @@
 
 <p align='center'>
   <br />
-  <b align="center">⚫ Black Theme ⚫</b>
+  <b align="center">⚫ Dark Theme ⚫</b>
   <br />
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align='center'>
   <br />
-  <b align="center">⚪ White Theme ⚪</b>
+  <b align="center">⚪ Light Theme ⚪</b>
   <br />
   <p>Coming soon... or not... </p>
 </p>
