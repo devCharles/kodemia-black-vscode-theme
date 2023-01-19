@@ -1,8 +1,8 @@
 {
-  "name": "kodemia-black",
-  "displayName": "Kodemia black",
-  "description": "Kodemia black Color Theme",
-  "version": "0.0.1",
+  "name": "kodemia-vscode-official-themes",
+  "displayName": "Kodemia Theme",
+  "description": "Kodemia's VS Code Official Themes",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -14,7 +14,7 @@
       {
         "label": "Kodemia Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kodemia Black-color-theme.json"
+        "path": "./themes/black.json"
       }
     ]
   },
@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/kodemia/vscode-themes/issues",
     "email": "tech@kodemia.mx"
-  }
+  },
+  "homepage": "https://github.com/kodemia/vscode-themes"
 }

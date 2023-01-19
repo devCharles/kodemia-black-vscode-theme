@@ -7,7 +7,7 @@
 
 <p align='center'>
   <br />
-  <h2 align="center">⚫ Black Version ⚫</h2>
+  <b align="center">⚫ Black Version ⚫</b>
   <br />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align='center'>
   <br />
-  <h2 align="center">⚪ White Version ⚪</h2>
+  <b align="center">⚪ White Version ⚪</b>
   <br />
   <p>Coming soon... or not... </p>
 </p>
